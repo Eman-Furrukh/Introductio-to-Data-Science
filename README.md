@@ -1,2 +1,2 @@
 # Introductio-to-Data-Science
-This contains all the assignments and lab tasks throughout the course
+This contains all the assignments throughout the course
